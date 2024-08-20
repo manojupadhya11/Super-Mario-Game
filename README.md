@@ -1,0 +1,1 @@
+This is the Super Mario Game project created Using Java script. This is a simple project i created with the help of chatgpt and online browsing. I will be using this game application for Practicing DevOps Deployments
